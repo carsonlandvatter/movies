@@ -22,8 +22,6 @@ The programming language I chose to use was python and I used the sqlite3 librar
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - How to Easily Create a SQLite Database https://www.youtube.com/watch?v=XSZE1iiKdSw 
 - Python Getting Started - W3 Schools https://www.w3schools.com/python/python_getstarted.asp 
 
